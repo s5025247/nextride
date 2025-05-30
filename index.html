@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>乗換案内</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="app">
+    <div class="route-toggle">
+      <div class="toggle-group">
+        <button class="toggle-btn active" data-direction="outbound" onclick="toggleButton('direction', this)">往路</button>
+        <button class="toggle-btn" data-direction="return" onclick="toggleButton('direction', this)">復路</button>
+      </div>
+      <div class="toggle-group">
+        <button class="toggle-btn active" data-bus="off" onclick="toggleButton('bus', this)">バスなし</button>
+        <button class="toggle-btn" data-bus="on" onclick="toggleButton('bus', this)">バスあり</button>
+      </div>
+    </div>
+    <div class="trip-summary" id="trip-summary"></div>
+    <div id="timetable-container"></div>
+    <div class="controls">
+      <button onclick="showPrevious()">前へ</button>
+      <button onclick="showNext()">次へ</button>
+    </div>
+    <div class="page-buttons" id="page-buttons">
+      <button onclick="jumpToFixedIndex(0, this)">1</button>
+      <button onclick="jumpToFixedIndex(4, this)">2</button>
+      <button onclick="jumpToFixedIndex(8, this)">3</button>
+      <button onclick="jumpToFixedIndex(13, this)">4</button>
+      <button onclick="jumpToFixedIndex(16, this)">5</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

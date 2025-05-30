@@ -1,0 +1,814 @@
+[
+  {
+    "home_depart": "09:06",
+    "home_arrive": "11:11",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "09:22",
+        "arrive": "09:26",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "09:33",
+        "arrive": "10:02",
+        "duration": "00:29",
+        "transfer": "7分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "10:21",
+        "arrive": "10:56",
+        "duration": "00:35",
+        "transfer": "19分"
+      }
+    ]
+  },
+  {
+    "home_depart": "09:26",
+    "home_arrive": "11:28",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "09:42",
+        "arrive": "09:46",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "09:57",
+        "arrive": "10:25",
+        "duration": "00:28",
+        "transfer": "11分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "10:41",
+        "arrive": "11:13",
+        "duration": "00:32",
+        "transfer": "16分"
+      }
+    ]
+  },
+  {
+    "home_depart": "09:52",
+    "home_arrive": "12:09",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "10:08",
+        "arrive": "10:12",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "10:33",
+        "arrive": "11:02",
+        "duration": "00:29",
+        "transfer": "21分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "11:21",
+        "arrive": "11:54",
+        "duration": "00:33",
+        "transfer": "19分"
+      }
+    ]
+  },
+  {
+    "home_depart": "10:25",
+    "home_arrive": "12:29",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "10:41",
+        "arrive": "10:45",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "10:57",
+        "arrive": "11:25",
+        "duration": "00:28",
+        "transfer": "12分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "11:41",
+        "arrive": "12:14",
+        "duration": "00:33",
+        "transfer": "16分"
+      }
+    ]
+  },
+  {
+    "home_depart": "10:57",
+    "home_arrive": "13:09",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "11:13",
+        "arrive": "11:17",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "11:33",
+        "arrive": "12:02",
+        "duration": "00:29",
+        "transfer": "16分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "12:21",
+        "arrive": "12:54",
+        "duration": "00:33",
+        "transfer": "19分"
+      }
+    ]
+  },
+  {
+    "home_depart": "11:32",
+    "home_arrive": "13:29",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "11:48",
+        "arrive": "11:52",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "11:57",
+        "arrive": "12:25",
+        "duration": "00:28",
+        "transfer": "5分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "12:41",
+        "arrive": "13:14",
+        "duration": "00:33",
+        "transfer": "16分"
+      }
+    ]
+  },
+  {
+    "home_depart": "11:57",
+    "home_arrive": "14:09",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "12:13",
+        "arrive": "12:17",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "12:33",
+        "arrive": "13:02",
+        "duration": "00:29",
+        "transfer": "16分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "13:21",
+        "arrive": "13:54",
+        "duration": "00:33",
+        "transfer": "19分"
+      }
+    ]
+  },
+  {
+    "home_depart": "12:32",
+    "home_arrive": "14:29",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "12:48",
+        "arrive": "12:52",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "12:57",
+        "arrive": "13:25",
+        "duration": "00:28",
+        "transfer": "5分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "13:41",
+        "arrive": "14:14",
+        "duration": "00:33",
+        "transfer": "16分"
+      }
+    ]
+  },
+  {
+    "home_depart": "12:57",
+    "home_arrive": "15:09",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "13:13",
+        "arrive": "13:17",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "13:33",
+        "arrive": "14:02",
+        "duration": "00:29",
+        "transfer": "16分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "14:21",
+        "arrive": "14:54",
+        "duration": "00:33",
+        "transfer": "19分"
+      }
+    ]
+  },
+  {
+    "home_depart": "13:32",
+    "home_arrive": "15:29",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "13:48",
+        "arrive": "13:52",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "13:57",
+        "arrive": "14:25",
+        "duration": "00:28",
+        "transfer": "5分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "14:41",
+        "arrive": "15:14",
+        "duration": "00:33",
+        "transfer": "16分"
+      }
+    ]
+  },
+  {
+    "home_depart": "13:57",
+    "home_arrive": "16:09",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "14:13",
+        "arrive": "14:17",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "14:33",
+        "arrive": "15:02",
+        "duration": "00:29",
+        "transfer": "16分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "15:21",
+        "arrive": "15:54",
+        "duration": "00:33",
+        "transfer": "19分"
+      }
+    ]
+  },
+  {
+    "home_depart": "14:32",
+    "home_arrive": "16:29",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "14:48",
+        "arrive": "14:52",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "14:57",
+        "arrive": "15:25",
+        "duration": "00:28",
+        "transfer": "5分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "15:41",
+        "arrive": "16:14",
+        "duration": "00:33",
+        "transfer": "16分"
+      }
+    ]
+  },
+  {
+    "home_depart": "15:02",
+    "home_arrive": "17:08",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "15:18",
+        "arrive": "15:22",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "15:33",
+        "arrive": "16:02",
+        "duration": "00:29",
+        "transfer": "11分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "16:21",
+        "arrive": "16:53",
+        "duration": "00:32",
+        "transfer": "19分"
+      }
+    ]
+  },
+  {
+    "home_depart": "15:32",
+    "home_arrive": "17:29",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "15:48",
+        "arrive": "15:52",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "15:57",
+        "arrive": "16:25",
+        "duration": "00:28",
+        "transfer": "5分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "16:41",
+        "arrive": "17:14",
+        "duration": "00:33",
+        "transfer": "16分"
+      }
+    ]
+  },
+  {
+    "home_depart": "16:03",
+    "home_arrive": "18:04",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "16:19",
+        "arrive": "16:23",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "16:33",
+        "arrive": "17:02",
+        "duration": "00:29",
+        "transfer": "10分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "17:15",
+        "arrive": "17:49",
+        "duration": "00:34",
+        "transfer": "13分"
+      }
+    ]
+  },
+  {
+    "home_depart": "16:33",
+    "home_arrive": "18:20",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "16:49",
+        "arrive": "16:53",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "16:57",
+        "arrive": "17:25",
+        "duration": "00:28",
+        "transfer": "4分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "17:31",
+        "arrive": "18:05",
+        "duration": "00:34",
+        "transfer": "6分"
+      }
+    ]
+  },
+  {
+    "home_depart": "17:04",
+    "home_arrive": "19:05",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "17:20",
+        "arrive": "17:24",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "17:33",
+        "arrive": "18:02",
+        "duration": "00:29",
+        "transfer": "9分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "18:17",
+        "arrive": "18:50",
+        "duration": "00:33",
+        "transfer": "15分"
+      }
+    ]
+  },
+  {
+    "home_depart": "17:29",
+    "home_arrive": "19:21",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "17:45",
+        "arrive": "17:49",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "17:57",
+        "arrive": "18:25",
+        "duration": "00:28",
+        "transfer": "8分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "18:31",
+        "arrive": "19:06",
+        "duration": "00:35",
+        "transfer": "6分"
+      }
+    ]
+  },
+  {
+    "home_depart": "18:04",
+    "home_arrive": "20:05",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "18:20",
+        "arrive": "18:24",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "18:33",
+        "arrive": "19:02",
+        "duration": "00:29",
+        "transfer": "9分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "19:16",
+        "arrive": "19:50",
+        "duration": "00:34",
+        "transfer": "14分"
+      }
+    ]
+  },
+  {
+    "home_depart": "18:25",
+    "home_arrive": "20:22",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "18:41",
+        "arrive": "18:45",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "18:57",
+        "arrive": "19:25",
+        "duration": "00:28",
+        "transfer": "12分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "19:31",
+        "arrive": "20:07",
+        "duration": "00:36",
+        "transfer": "6分"
+      }
+    ]
+  },
+  {
+    "home_depart": "19:05",
+    "home_arrive": "21:07",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "19:21",
+        "arrive": "19:25",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "19:33",
+        "arrive": "20:01",
+        "duration": "00:28",
+        "transfer": "8分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "20:16",
+        "arrive": "20:52",
+        "duration": "00:36",
+        "transfer": "15分"
+      }
+    ]
+  },
+  {
+    "home_depart": "19:30",
+    "home_arrive": "21:20",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "19:46",
+        "arrive": "19:50",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "19:57",
+        "arrive": "20:25",
+        "duration": "00:28",
+        "transfer": "7分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "20:31",
+        "arrive": "21:05",
+        "duration": "00:34",
+        "transfer": "6分"
+      }
+    ]
+  },
+  {
+    "home_depart": "20:05",
+    "home_arrive": "22:09",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "20:21",
+        "arrive": "20:25",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "20:33",
+        "arrive": "21:01",
+        "duration": "00:28",
+        "transfer": "8分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "21:21",
+        "arrive": "21:54",
+        "duration": "00:33",
+        "transfer": "20分"
+      }
+    ]
+  },
+  {
+    "home_depart": "20:34",
+    "home_arrive": "22:31",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "20:50",
+        "arrive": "20:57",
+        "duration": "00:07"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "21:00",
+        "arrive": "21:18",
+        "duration": "00:18",
+        "transfer": "3分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "21:41",
+        "arrive": "22:16",
+        "duration": "00:35",
+        "transfer": "23分"
+      }
+    ]
+  },
+  {
+    "home_depart": "20:38",
+    "home_arrive": "22:57",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "20:54",
+        "arrive": "21:01",
+        "duration": "00:07"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "21:19",
+        "arrive": "21:42",
+        "duration": "00:23",
+        "transfer": "18分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "22:10",
+        "arrive": "22:42",
+        "duration": "00:32",
+        "transfer": "28分"
+      }
+    ]
+  },
+  {
+    "home_depart": "21:05",
+    "home_arrive": "23:22",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "21:21",
+        "arrive": "21:25",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "21:43",
+        "arrive": "22:09",
+        "duration": "00:26",
+        "transfer": "18分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "22:34",
+        "arrive": "23:07",
+        "duration": "00:33",
+        "transfer": "25分"
+      }
+    ]
+  },
+  {
+    "home_depart": "21:35",
+    "home_arrive": "23:51",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "21:51",
+        "arrive": "21:58",
+        "duration": "00:07"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "22:11",
+        "arrive": "22:34",
+        "duration": "00:23",
+        "transfer": "13分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "23:03",
+        "arrive": "23:36",
+        "duration": "00:33",
+        "transfer": "29分"
+      }
+    ]
+  },
+  {
+    "home_depart": "22:05",
+    "home_arrive": "00:38",
+    "segments": [
+      {
+        "from": "彦根",
+        "to": "米原",
+        "depart": "22:21",
+        "arrive": "22:25",
+        "duration": "00:04"
+      },
+      {
+        "from": "米原",
+        "to": "名古屋",
+        "depart": "22:42",
+        "arrive": "23:05",
+        "duration": "00:23",
+        "transfer": "17分"
+      },
+      {
+        "from": "名古屋",
+        "to": "四日市",
+        "depart": "23:40",
+        "arrive": "00:23",
+        "duration": "00:43",
+        "transfer": "35分"
+      }
+    ]
+  }
+]
