@@ -3,7 +3,7 @@
   src: url('fonts/Frutiger.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
-  unicode-range: U+0030-0039, U+0041-005A, U+0061-007A, U+003B;
+  unicode-range: U+0030-0039, U+0041-005A, U+0061-007A, U+003A;
 }
 
 @font-face {
